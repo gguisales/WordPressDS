@@ -1,0 +1,67 @@
+/*
+Theme Name: Ds
+Theme URI: https://github.com/gguisales/Atividade-Wordpress-
+Description: Site De Desenvolvimento de Sistemas
+Author: Guilherme Araújo Sales & Matheus Becari Silva
+Author URI: https://github.com/gguisales/
+Version: 1.0
+*/
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+      
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .produtos {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .produtos article {
+    flex: 1;
+    margin: 10px;
+    padding: 20px;
+  }
+  
+  .botao-compra {
+          background-color: gray;
+          border: 1px solid black;
+           padding: 5px;
+      }
+      
+      #topimg{
+      margin-right:10px;
+      }
+          
+      
+  
+   
